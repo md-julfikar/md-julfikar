@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there, I'm Julfikar 👋
 
-<!--
-**md-julfikar/md-julfikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a IT student at Islamic University,Bangladesh . My interests span from Competative Programming  to Game Development and Anything between. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently solving problem in codeforces and leetcode.
+- 🌱 I'm currently learning advance Data structure and Algorithm.
+- 📫 How to reach me: julfikar@ieee.org
+
+## 🛠️ Skills
+
+- Programming languages: C,C++,Python
+
+## 🌐 Connect with Me
+
+[![Facebook](https://www.facebook.com/julfikar.jim.5/)
+
+## 📊 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-julfikar&show_icons=true&count_private=true&hide=issues&theme=radical)](https://github.com/md-julfikar)
+
+## 📂 Projects
+
+Here are some of the projects I'm proud of:
+
+- [Project 1](https://github.com/yourusername/project1): Short description
+- [Project 2](https://github.com/yourusername/project2): Short description
+- [Project 3](https://github.com/yourusername/project3): Short description
+
+Feel free to explore more in my [GitHub repositories](https://github.com/yourusername).
+
+## 📝 Blog
+
+I occasionally write about [Your Blog Topics] on my [Blog](https://yourbloglink.com/).
+
+Thanks for visiting! 😊
