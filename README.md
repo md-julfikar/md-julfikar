@@ -14,7 +14,7 @@ I'm a IT student at Islamic University,Bangladesh . My interests span from Compe
 
 ## 🌐 Connect with Me
 
-[![Facebook](https://www.facebook.com/julfikar.jim.5/)
+[![facebook](https://www.facebook.com/julfikar.jim.5/)
 
 ## 📊 GitHub Stats
 
