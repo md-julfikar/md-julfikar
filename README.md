@@ -24,14 +24,9 @@ I'm a IT student at Islamic University,Bangladesh . My interests span from Compe
 
 Here are some of the projects I'm proud of:
 
-- [Project 1](https://github.com/yourusername/project1): Short description
-- [Project 2](https://github.com/yourusername/project2): Short description
-- [Project 3](https://github.com/yourusername/project3): Short description
+- [Project 1]([https://github.com/yourusername/project1](https://github.com/md-julfikar/CPP_project/blob/main/number_guessing_game.cpp)): Number Guessing Game
 
-Feel free to explore more in my [GitHub repositories](https://github.com/yourusername).
+Feel free to explore more in my [GitHub repositories](https://github.com/md-julfikar).
 
-## 📝 Blog
-
-I occasionally write about [Your Blog Topics] on my [Blog](https://yourbloglink.com/).
 
 Thanks for visiting! 😊
