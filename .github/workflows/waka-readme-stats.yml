@@ -14,8 +14,8 @@ jobs:
       - name: Update WakaTime Stats
         uses: anmol098/waka-readme-stats@master
         env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: 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
+          WAKATIME_API_KEY: waka_694f3cae-7f79-4a44-9e42-abf172d18c68
+          GH_TOKEN: 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
 
       - name: Commit and Push if Changed
         run: |
