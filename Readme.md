@@ -14,7 +14,7 @@ I'm an IT student at Islamic University, Bangladesh. My interests span from Comp
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/md-julfikar-8847a12b0/)
+- [LinkedIn](https://www.linkedin.com/in/md-julfikar/)
 
 ## 📊 GitHub Stats
 
@@ -25,6 +25,8 @@ I'm an IT student at Islamic University, Bangladesh. My interests span from Comp
 Here are some of the projects I'm proud of:
 
 - [Number Guessing Game](https://github.com/md-julfikar/CPP_project/blob/main/number_guessing_game.cpp)
+- [Weather Forecast App](https://github.com/md-julfikar/Weather-App)
+- [To-do List](https://github.com/md-julfikar/TO-DO-LIST)
 
 Feel free to explore more in my [GitHub repositories](https://github.com/md-julfikar).
 
