@@ -41,6 +41,8 @@ Feel free to explore more in my [GitHub repositories](https://github.com/md-julf
 
 > 📦 16.3 kB Used in GitHub's Storage 
  > 
+> 🏆 65 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -102,7 +104,7 @@ Python                   1 repo              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/md-julfikar/md-julfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2024 18:39:11 UTC
+ Last Updated on 09/07/2024 18:39:15 UTC
 <!--END_SECTION:waka-->
 
 Thanks for visiting! 😊
