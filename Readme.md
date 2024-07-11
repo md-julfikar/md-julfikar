@@ -35,7 +35,7 @@ Feel free to explore more in my [GitHub repositories](https://github.com/md-julf
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-273-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
@@ -102,7 +102,7 @@ Python                   1 repo              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/md-julfikar/md-julfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2024 18:40:32 UTC
+ Last Updated on 11/07/2024 18:39:03 UTC
 <!--END_SECTION:waka-->
 
 Thanks for visiting! 😊
