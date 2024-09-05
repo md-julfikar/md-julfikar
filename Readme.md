@@ -35,13 +35,11 @@ Feel free to explore more in my [GitHub repositories](https://github.com/md-julf
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 146.9 kB Used in GitHub's Storage 
- > 
-> 🏆 90 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,15 +74,15 @@ Sunday                   9 commits           ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-C++                      3 hrs               ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   92.55 % 
-C                        8 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.33 % 
-Text                     6 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.12 % 
+C++                      2 hrs 52 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   92.26 % 
+C                        8 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.51 % 
+Text                     6 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.23 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+VS Code                  3 hrs 7 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🐱‍💻 Projects: 
-Codeforces               3 hrs 15 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Codeforces               3 hrs 7 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -102,7 +100,7 @@ JavaScript               2 repos             ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/md-julfikar/md-julfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2024 18:40:34 UTC
+ Last Updated on 05/09/2024 18:41:15 UTC
 <!--END_SECTION:waka-->
 
 Thanks for visiting! 😊
