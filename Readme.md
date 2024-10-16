@@ -41,8 +41,6 @@ Feel free to explore more in my [GitHub repositories](https://github.com/md-julf
 
 > 📦 146.9 kB Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -100,7 +98,7 @@ JavaScript               2 repos             ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/md-julfikar/md-julfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2024 18:44:23 UTC
+ Last Updated on 16/10/2024 18:44:05 UTC
 <!--END_SECTION:waka-->
 
 Thanks for visiting! 😊
