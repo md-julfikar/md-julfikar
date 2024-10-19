@@ -33,13 +33,15 @@ Feel free to explore more in my [GitHub repositories](https://github.com/md-julf
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 146.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 90 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,17 +76,17 @@ Sunday                   9 commits           ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   1 hr 14 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   43.81 % 
-Text                     39 mins             ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.17 % 
-C++                      37 mins             ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.32 % 
-JSON                     18 mins             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.70 % 
+Python                   1 hr 14 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.51 % 
+C++                      47 mins             ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.36 % 
+Text                     39 mins             ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.99 % 
+JSON                     18 mins             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.14 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 49 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+VS Code                  2 hrs 59 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🐱‍💻 Projects: 
-weather_analysis         2 hrs 11 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   77.66 % 
-Codeforces               37 mins             ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.34 % 
+weather_analysis         2 hrs 11 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   73.59 % 
+Codeforces               47 mins             ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.41 % 
 ```
 
 **I Mostly Code in C++** 
@@ -102,7 +104,7 @@ JavaScript               2 repos             ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/md-julfikar/md-julfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2024 18:43:46 UTC
+ Last Updated on 19/10/2024 18:41:25 UTC
 <!--END_SECTION:waka-->
 
 Thanks for visiting! 😊
