@@ -33,13 +33,13 @@ Feel free to explore more in my [GitHub repositories](https://github.com/md-julf
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2049%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 165.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 4 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,48 +47,6 @@ Feel free to explore more in my [GitHub repositories](https://github.com/md-julf
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.60 % 
-🌆 Daytime                13 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.40 % 
-🌃 Evening                23 commits          ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.40 % 
-🌙 Night                  82 commits          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   65.60 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   24 commits          ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.20 % 
-Tuesday                  24 commits          ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.20 % 
-Wednesday                12 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.60 % 
-Thursday                 34 commits          ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.20 % 
-Friday                   6 commits           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.80 % 
-Saturday                 15 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.00 % 
-Sunday                   10 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-C++                      2 hrs 33 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   80.05 % 
-Python                   21 mins             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.30 % 
-Markdown                 10 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.53 % 
-JSON                     5 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.92 % 
-CSV                      0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.19 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 11 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-
-🐱‍💻 Projects: 
-leetcode                 2 hrs 39 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜   82.98 % 
-LMS                      32 mins             ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.83 % 
-Downloads                0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.19 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -104,7 +62,7 @@ JavaScript               2 repos             ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/md-julfikar/md-julfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2025 18:43:17 UTC
+ Last Updated on 15/02/2025 18:40:03 UTC
 <!--END_SECTION:waka-->
 
 Thanks for visiting! 😊
