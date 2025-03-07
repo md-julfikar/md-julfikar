@@ -35,7 +35,7 @@ Feel free to explore more in my [GitHub repositories](https://github.com/md-julf
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -99,7 +99,7 @@ JavaScript               2 repos             ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/md-julfikar/md-julfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2025 18:45:11 UTC
+ Last Updated on 07/03/2025 18:44:40 UTC
 <!--END_SECTION:waka-->
 
 Thanks for visiting! 😊
