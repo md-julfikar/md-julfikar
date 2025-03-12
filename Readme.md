@@ -33,7 +33,7 @@ Feel free to explore more in my [GitHub repositories](https://github.com/md-julf
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,14 +74,14 @@ Sunday                   10 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   4 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+C++                      24 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   89.96 % 
+Text                     2 mins              ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.04 % 
 
 🔥 Editors: 
-VS Code                  4 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+VS Code                  27 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   67.51 % 
-Python Coding            1 min               ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.49 % 
+Codeforces               27 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,7 +99,7 @@ JavaScript               2 repos             ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/md-julfikar/md-julfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2025 18:46:36 UTC
+ Last Updated on 12/03/2025 18:46:42 UTC
 <!--END_SECTION:waka-->
 
 Thanks for visiting! 😊
