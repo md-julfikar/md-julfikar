@@ -100,7 +100,7 @@ Jupyter Notebook         1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/md-julfikar/md-julfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2025 18:47:43 UTC
+ Last Updated on 17/04/2025 18:47:02 UTC
 <!--END_SECTION:waka-->
 
 Thanks for visiting! 😊
