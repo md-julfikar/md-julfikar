@@ -99,7 +99,7 @@ Jupyter Notebook         2 repos             ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/md-julfikar/md-julfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2025 18:53:43 UTC
+ Last Updated on 17/07/2025 18:54:17 UTC
 <!--END_SECTION:waka-->
 
 Thanks for visiting! 😊
