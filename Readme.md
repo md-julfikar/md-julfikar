@@ -41,6 +41,8 @@ Feel free to explore more in my [GitHub repositories](https://github.com/md-julf
 
 > 📦 231.7 kB Used in GitHub's Storage 
  > 
+> 🏆 17 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -100,7 +102,7 @@ MATLAB                   1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/md-julfikar/md-julfikar/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2025 18:43:29 UTC
+ Last Updated on 13/09/2025 18:41:20 UTC
 <!--END_SECTION:waka-->
 
 Thanks for visiting! 😊
