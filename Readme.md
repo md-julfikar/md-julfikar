@@ -1,6 +1,6 @@
 # Hi there, I'm Julfikar 👋
 
-I'm an IT student at Islamic University, Bangladesh. My interests span from Competitive Programming to Game Development and anything in between.
+I'm final semester ICT student at Islamic University, Bangladesh. My interests span from Competitive Programming to Backend Development and anything in between.
 
 ## 🚀 About Me
 
