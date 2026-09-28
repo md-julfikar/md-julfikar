@@ -6,7 +6,7 @@ I'm an IT student at Islamic University, Bangladesh. My interests span from Comp
 
 - 🔭 I'm currently solving problems on Codeforces and Leetcode.
 - 🌱 I'm currently learning advanced Data Structures and Algorithms.
-- 📫 How to reach me: julfikar@ieee.org
+- 📫 How to reach me: julfikarjim.ict@gmail.com
 
 ## 🛠️ Skills
 
